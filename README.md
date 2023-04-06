@@ -1,25 +1,34 @@
 # RN-Chat-Socket-App
                           
-    ==> For Front End App:
+--> For Front End App:
 
---> Install Node modules -> npm install
+--> Install Node modules  
+    ==> npm install
 
---> Pod install -> cd ios -> pod install
+--> Pod install -> cd ios  
+    ==> pod install
 
 --> Replace Ip address with your system Ip. (Interminal for ios Type: 'ifconfig' and for and android 'ipconfig')
 
---> Run app -> npx react-native run-ios -> npx react-native run-android
+    Run app:
+    --> ios app 
+    ==> npx react-native run-ios 
+    -->for android
+    ==> npx react-native run-android
 
 
-    ==> For Backend 
+--> For Backend 
 
-if not install nodemon with this command
+--> if not install nodemon with this command
 
---> npm i -g nodemon   or sudo i -g nodemeon
+    --> for Windows
+    ==> npm i -g nodemon   
+    --> for Mac
+    ==> sudo i -g nodemeon
 
-then Run
+--> Then Run
 
---> nodemon start
+    ==> nodemon start
 
 
 
