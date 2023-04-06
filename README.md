@@ -1,10 +1,6 @@
-######################################################
-            ###############################
-                # RN-Chat-Socket-App
-            ############################### 
-######################################################                
-                For Front End App:
-######################################################
+# RN-Chat-Socket-App
+                          
+    ==> For Front End App:
 
 --> Install Node modules -> npm install
 
@@ -14,9 +10,8 @@
 
 --> Run app -> npx react-native run-ios -> npx react-native run-android
 
-######################################################
-                    For Backend 
-######################################################
+
+    ==> For Backend 
 
 if not install nodemon with this command
 
